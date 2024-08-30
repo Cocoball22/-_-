@@ -14,3 +14,5 @@ Dht11을 이용한 온습도
 서보모터 동작
 적외선 센서
 
+![회로도_1](https://github.com/user-attachments/assets/fc7f8087-f6a9-45eb-b621-46e093e1e525)
+![회로도_2](https://github.com/user-attachments/assets/9f4143a1-333f-4ae8-a64d-25640ead4ec9)
